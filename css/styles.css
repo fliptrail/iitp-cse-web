@@ -1,0 +1,62 @@
+.top-bar{
+    background-color: #361D2E;
+    color:white;
+}
+
+.iitp-name{
+    font-size: 1.4em;
+    padding:0.6em;
+    color:#D6CE93;
+}
+
+.hindi{
+    text-align: right;
+    padding-top: 5px;
+}
+
+.banner{
+    background: url(../img/bg.jpg);
+    background-color: #D4EAC8;
+    height:100vh;
+    background-position: center;
+    background-size: cover;
+    -webkit-transition: 0.5s ease; /* Safari */
+    transition: 0.5s ease;
+    text-align:center;
+    filter:saturate();
+}
+
+.black-overlay{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.banner .row{
+    height:100vh;
+    color:whitesmoke;
+}
+
+.text1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:1em;
+}
+
+.text2{
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    color: #D6CE93;
+}
+
+.text3{
+    font-size: 1.5em;
+    font-family: 'Courier New', Courier, monospace;
+    color: #C0D8E0;
+}
+
+@media (max-width:425px){
+    .iitp-name{
+        font-size:0.9em;
+    }
+    .hindi{
+        font-size:0.6em;
+    }
+}
