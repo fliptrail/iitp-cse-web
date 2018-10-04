@@ -2,7 +2,6 @@
 
 New website for IITP CSE Department.
 
-Todo:
+<b>See Project Tab</b>
 
-1. Start work for now
-2. Search for more people.
+:sparkle: Put your ideas in IDEAS.md file :sparkle:
