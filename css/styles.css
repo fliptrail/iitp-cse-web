@@ -30,7 +30,7 @@
     background-color: rgba(0, 0, 0, 0.6);
 }
 
-.banner .row{
+.banner .text{
     height:100vh;
     color:whitesmoke;
 }
@@ -52,11 +52,32 @@
     color: #C0D8E0;
 }
 
+.banner .col{
+    opacity:0;
+}
+
+.scroll-down{
+    background: url(../img/scrolldown.png);
+    width:8vw;
+    height:8vw;
+    display:block;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    margin-left:90vw;
+    z-index: 500;
+}
+
 @media (max-width:425px){
     .iitp-name{
         font-size:0.9em;
     }
     .hindi{
         font-size:0.6em;
+    }
+    .scroll-down{
+        width:18vw;
+        height: 18vw;
+        margin-left: 82vw;
     }
 }
