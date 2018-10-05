@@ -4,13 +4,13 @@ var basicTimeline = anime.timeline({
 
 basicTimeline
   .add({
-    targets: '.col',
+    targets: '.banner .col',
     opacity: 1,
     easing: 'linear',
     duration:2000
   })
   .add({
-    targets: '.col',
+    targets: '.banner .col',
     opacity: 0,
     easing: 'linear',
     duration:2000
@@ -27,5 +27,7 @@ scroll
         elasticity:0,
         duration:2000
     })
+
+
 
 

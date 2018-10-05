@@ -20,24 +20,48 @@
     height:100vh;
     background-position: center;
     background-size: cover;
-    -webkit-transition: 0.5s ease; /* Safari */
-    transition: 0.5s ease;
     text-align:center;
     filter:saturate();
+    z-index:100;
+    background-attachment: fixed;
+}
+
+.quote{
+    height:100vh;
+    font-size: 1.75em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #D6CE93;
+    background: url(../img/quote-banner.jpg);
+    background-color: #D4EAC8;
+    background-position: center;
+    background-size: cover;
+    border-top:5px solid white;
 }
 
 .black-overlay{
     background-color: rgba(0, 0, 0, 0.6);
 }
 
-.banner .text{
+.quote .col{
+    padding:2em;
+}
+
+.banner .text, .quote .text{
     height:100vh;
-    color:whitesmoke;
+}
+
+
+.quote-text-highlight{
+    font-size: 2.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: #C0D8E0;
+    
 }
 
 .text1{
     font-family: 'Courier New', Courier, monospace;
     font-size:1em;
+    color: white;
 }
 
 .text2{
@@ -56,6 +80,10 @@
     opacity:0;
 }
 
+.align-text-right{
+    text-align: right;
+}
+
 .scroll-down{
     background: url(../img/scrolldown.png);
     width:8vw;
@@ -66,6 +94,10 @@
     position: absolute;
     margin-left:90vw;
     z-index: 500;
+}
+
+.shift-to-left{
+    margin-left: 0vw;
 }
 
 @media (max-width:425px){
@@ -79,5 +111,8 @@
         width:18vw;
         height: 18vw;
         margin-left: 82vw;
+    }
+    .quote .col{
+        padding:0.3em;
     }
 }
