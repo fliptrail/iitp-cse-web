@@ -28,6 +28,12 @@ scroll
         duration:2000
     })
 
+/* var navbar = document.querySelector(".navbar");
 
-
+document.body.addEventListener('wheel', function(e) {
+    if (e.deltaY > 0) {
+      console.log('scrolling down');
+      navbar.removeAttribute("hidden");
+    }
+  }); */
 
