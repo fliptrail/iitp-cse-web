@@ -20,7 +20,6 @@
 }
 
 .quote{
-    height:60vh;
     font-size: 1.75em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #D6CE93;
@@ -31,9 +30,9 @@
     border-top:5px solid white;
 }
 
-.quote .row{
+/* .quote .row{
     height:100%;
-}
+} */
 
 .black-overlay{
     background-color: rgba(0, 0, 0, 0.6);
