@@ -104,7 +104,16 @@
 .intro-description{
     padding:1em;
     font-family: 'Times New Roman', Times, serif;
+    background-color: #D6CE93;
+}
 
+.home-news{
+    padding:1em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar-title{
+    color:#D6CE93;
 }
 
 @media (max-width:425px){
