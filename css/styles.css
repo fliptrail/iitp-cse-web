@@ -1,18 +1,3 @@
-.top-bar{
-    background-color: #361D2E;
-    color:white;
-}
-
-.iitp-name{
-    font-size: 1.4em;
-    padding:0.6em;
-    color:#D6CE93;
-}
-
-.hindi{
-    text-align: right;
-    padding-top: 5px;
-}
 
 .banner{
     background: url(../img/bg.jpg);
@@ -35,7 +20,7 @@
 }
 
 .quote{
-    height:100vh;
+    height:60vh;
     font-size: 1.75em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #D6CE93;
@@ -46,6 +31,10 @@
     border-top:5px solid white;
 }
 
+.quote .row{
+    height:100%;
+}
+
 .black-overlay{
     background-color: rgba(0, 0, 0, 0.6);
 }
@@ -54,7 +43,7 @@
     padding:2em;
 }
 
-.banner .text, .quote .text{
+.banner .text{
     height:100vh;
 }
 
@@ -109,6 +98,16 @@
     margin-left: 0vw;
 }
 
+.full-size{
+    height:100vh;
+}
+
+.intro-description{
+    padding:1em;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
 @media (max-width:425px){
     .iitp-name{
         font-size:0.9em;
@@ -138,5 +137,11 @@
     }
     .navbar-logo{
         width:1.6em;
+    }
+    .quote{
+        font-size: 1em;
+    }
+    .quote-text-highlight{
+        font-size: 1.25em;
     }
 }
