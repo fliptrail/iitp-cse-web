@@ -26,6 +26,14 @@
     background-attachment: fixed;
 }
 
+.banner-logo{
+    width:10em;
+}
+
+.navbar-logo{
+    width:2.4em;
+}
+
 .quote{
     height:100vh;
     font-size: 1.75em;
@@ -76,7 +84,7 @@
     color: #C0D8E0;
 }
 
-.banner .col{
+.banner .banner-animation{
     opacity:0;
 }
 
@@ -93,6 +101,7 @@
     background-size: cover;
     position: absolute;
     margin-left:90vw;
+    margin-top: 75vh;
     z-index: 500;
 }
 
@@ -114,5 +123,20 @@
     }
     .quote .col{
         padding:0.3em;
+    }
+    .text1{
+        font-size: 1.25em;
+    }
+    .text2{
+        font-size: 1.75em;
+    }
+    .text3{
+        font-size: 1.5em;
+    }
+    .banner-logo{
+        width: 0;
+    }
+    .navbar-logo{
+        width:1.6em;
     }
 }

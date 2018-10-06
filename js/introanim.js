@@ -4,13 +4,13 @@ var basicTimeline = anime.timeline({
 
 basicTimeline
   .add({
-    targets: '.banner .col',
+    targets: '.banner .col .banner-animation',
     opacity: 1,
     easing: 'linear',
     duration:2000
   })
   .add({
-    targets: '.banner .col',
+    targets: '.banner .col .banner-animation',
     opacity: 0,
     easing: 'linear',
     duration:2000
@@ -23,9 +23,9 @@ var scroll = anime.timeline({
 scroll
     .add({
         targets: '.scroll-down',
-        translateY:'78vh',
+        translateY:'5vh',
         elasticity:0,
-        duration:2000
+        duration:3000,
     })
 
 /* var navbar = document.querySelector(".navbar");
