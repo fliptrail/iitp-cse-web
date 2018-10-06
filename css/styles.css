@@ -134,6 +134,10 @@
     color:#D6CE93;
 }
 
+.search-bar-css-override{
+    background-color: #343a40;
+}
+
 @media (max-width:425px){
     .iitp-name{
         font-size:0.9em;
