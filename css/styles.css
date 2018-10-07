@@ -138,6 +138,10 @@
     background-color: #343a40;
 }
 
+.empty-div{
+    height: 10vh;
+}
+
 @media (max-width:425px){
     .iitp-name{
         font-size:0.9em;
