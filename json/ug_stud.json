@@ -1,0 +1,24 @@
+{
+    "ug_2018": [
+        {
+            "name": "Amish Mittal",
+            "roll": 20
+        },
+        {
+            "name": "Aryan Kothari",
+            "roll": 21
+        }
+
+    ],
+    "ug_2017": [
+        {
+            "name": "Random Clark",
+            "roll": 20
+        },
+        {
+            "name": "Random Ben",
+            "roll": 21
+        }
+        
+    ]
+ }

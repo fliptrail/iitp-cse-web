@@ -8,9 +8,11 @@
         <!-- Bootstrap CSS  -->
         <link rel = "stylesheet" href = "./css/bootstrap.min.css">
         <link rel = "stylesheet" href = "./css/styles.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
         <title>Computer Science and Engineering | IIT Patna</title>
         <link rel="shortcut icon" type="image/png" href="./img/logo.png"/>
+
 
     </head>
 <body>
@@ -86,23 +88,36 @@
                 </div>
             </div>
     </div>
+
+    <style>
+        .btn-secondary{
+            color:black;
+        }
+        .btn-dark{
+            border: 2px solid gray;
+        }
+    </style>
+
     <div class = "container bg-light">
             <div class="row">
                 <div class="col-12 col-lg-4">
                     <div class="row">
                         <div class="col-auto col-lg-12">
-                            '18
+                            <button type="button" class="btn btn-dark" id = "link18">'18</button>
                         </div>
                         <div class="col-auto col-lg-12">
-                                '17
+                                <button type="button" class="btn btn-secondary bg-light " id = "link17">'17</button>
                         </div>
                         <div class="col-auto col-lg-12">
-                            '16
-                        </div>
+                                <button type="button" class="btn btn-secondary bg-light" id = "link16">'16</button>
+                        </div> 
+                        <div class="col-auto col-lg-12">
+                                <button type="button" class="btn btn-secondary bg-light">'15</button>
+                        </div> 
                     </div>
                 </div>
                 <div class="col-12 col-lg-8">
-                    <table class = "table">
+                    <table class = "table" id = "userdata">
                         <thead>
                             <tr>
                                 <th scope = "col">Roll no</th>
@@ -110,22 +125,10 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
-                                <td>1801CS07</td>
-                                <td>Amish Mittal</td>
-                            </tr>
-                            <tr>
-                                <td>1801CS07</td>
-                                <td>Amish Mittal</td>
-                            </tr>
-                            <tr>
-                                <td>1801CS07</td>
-                                <td>Amish Mittal</td>
-                            </tr>
-                            <tr>
-                                <td>1801CS07</td>
-                                <td>Amish Mittal</td>
-                            </tr>
+
+
+                                <!-- Entries from JSON -->
+
                         </tbody>
                     </table>
                 </div>
@@ -164,10 +167,119 @@
             </div>
         </div>
     </div>
+
+
+
     <script src = "./js/jquery-3.3.1.js"></script>
     <script src="./js/bootstrap.min.js"></script>
     <script src = "./js/anime.min.js"></script>
     <script src = "./js/introanim.js"></script>
 
 </body>
+
+
+
+
+<script>
+
+    document.getElementById('link18').onclick = function(){
+        var people = [];
+        document.getElementsByTagName('tbody')[0].innerHTML = '';
+
+        document.getElementsByClassName('btn-dark')[0].classList.add('btn-secondary');
+        document.getElementsByClassName('btn-dark')[0].classList.add('bg-light');
+        document.getElementsByClassName('btn-dark')[0].classList.remove('btn-dark');
+        
+        /* var x = document.getElementsByClassName('btn');
+        for (i = 0; i < x.length; i++) {
+            x[i].classList.remove("btn-dark");
+        } */
+        
+        document.getElementById('link18').classList.add("btn-dark");
+        document.getElementById('link18').classList.remove("btn-secondary");
+        document.getElementById('link18').classList.remove("bg-light");
+
+       $.getJSON('json/ug_stud.json', function(data) {
+           $.each(data.ug_2018, function(i, f) {
+              var tblRow = "<tr>" + "<td>" + f.roll + "</td>" +
+                "<td>" + f.name + "</td>" + "</tr>"
+               $(tblRow).appendTo("#userdata tbody");
+         });
+    
+       });
+    }
+
+
+
+
+    document.getElementById('link17').onclick = function(){
+        var people = [];
+        document.getElementsByTagName('tbody')[0].innerHTML = '';
+
+        document.getElementsByClassName('btn-dark')[0].classList.add('btn-secondary');
+        document.getElementsByClassName('btn-dark')[0].classList.add('bg-light');
+        document.getElementsByClassName('btn-dark')[0].classList.remove('btn-dark');
+        
+        /* var x = document.getElementsByClassName('btn');
+        for (i = 0; i < x.length; i++) {
+            x[i].classList.remove("btn-dark");
+        } */
+        
+        document.getElementById('link17').classList.add("btn-dark");
+        document.getElementById('link17').classList.remove("btn-secondary");
+        document.getElementById('link17').classList.remove("bg-light");
+
+       $.getJSON('json/ug_stud.json', function(data) {
+           $.each(data.ug_2017, function(i, f) {
+              var tblRow = "<tr>" + "<td>" + f.roll + "</td>" +
+                "<td>" + f.name + "</td>" + "</tr>"
+               $(tblRow).appendTo("#userdata tbody");
+         });
+    
+       });
+    }
+
+
+    document.getElementById('link16').onclick = function(){
+        var people = [];
+        document.getElementsByTagName('tbody')[0].innerHTML = '';
+
+        document.getElementsByClassName('btn-dark')[0].classList.add('btn-secondary');
+        document.getElementsByClassName('btn-dark')[0].classList.add('bg-light');
+        document.getElementsByClassName('btn-dark')[0].classList.remove('btn-dark');
+        
+        /* var x = document.getElementsByClassName('btn');
+        for (i = 0; i < x.length; i++) {
+            x[i].classList.remove("btn-dark");
+        } */
+        
+        document.getElementById('link16').classList.add("btn-dark");
+        document.getElementById('link16').classList.remove("btn-secondary");
+        document.getElementById('link16').classList.remove("bg-light");
+
+       $.getJSON('json/ug_stud.json', function(data) {
+           $.each(data.ug_2016, function(i, f) {
+              var tblRow = "<tr>" + "<td>" + f.roll + "</td>" +
+                "<td>" + f.name + "</td>" + "</tr>"
+               $(tblRow).appendTo("#userdata tbody");
+         });
+    
+       });
+    }
+
+
+    $(function() {
+        
+        $.getJSON('json/ug_stud.json', function(data) {
+           $.each(data.ug_2018, function(i, f) {
+              var tblRow = "<tr>" + "<td>" + f.roll + "</td>" +
+                "<td>" + f.name + "</td>" + "</tr>"
+               $(tblRow).appendTo("#userdata tbody");
+         });
+    
+       });
+    
+    });
+</script>
+
 </html>
