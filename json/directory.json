@@ -1,0 +1,191 @@
+{
+  "faculty":
+  [
+    {
+      "name": "Pushpak Bhattacharyya",
+      "designation": "Professor",
+      "phone": 8003,
+      "email": "pb"
+    },
+    {
+      "name": "Abyayananda Maiti",
+      "designation": "Assistant Professor",
+      "phone": 8130,
+      "email": "abyaym"
+    },
+    {
+      "name": "Arijit Mondal",
+      "designation": "Assistant Professor",
+      "phone": 8161,
+      "email": "arijit"
+    },
+    {
+      "name": "Asif Ekbal",
+      "designation": "Assistant Professor",
+      "phone": 8090,
+      "email": "asif"
+    },
+    {
+      "name": "Joydeep Chandra",
+      "designation": "Assistant Professor",
+      "phone": 8129,
+      "email": "joydeep"
+    },
+    {
+      "name": "Rajiv Misra",
+      "designation": "Associate Professor",
+      "phone": 8034,
+      "email": "rajivm"
+    },
+    {
+      "name": "Raju Halder",
+      "designation": "Assistant Professor",
+      "phone": 8009,
+      "email": "halder"
+    },
+    {
+      "name": "Samrat Mondal",
+      "designation": "Assistant Professor",
+      "phone": 8163,
+      "email": "samrat"
+    },
+    {
+      "name": "Somanath tripathy",
+      "designation": "Associate Professor",
+      "phone": 8036,
+      "email": "som"
+    },
+    {
+      "name": "Sriparna Saha",
+      "designation": "Assistant Professor",
+      "phone": 8128,
+      "email": "sriparna"
+    },
+    {
+      "name": "Jimson Mathew",
+      "designation": "Associate Professor",
+      "phone": 8347,
+      "email": "jimson"
+    },
+    {
+      "name": "Suman Kumar Maji",
+      "designation": "Assistant Professor",
+      "phone": 8346,
+      "email": "smaji"
+    },
+    {
+      "name": "Sourav Kumar Dandapat",
+      "designation": "Assistant Professor",
+      "phone": 8345,
+      "email": "sourav"
+    },
+    {
+      "name": "Kanchan Manna",
+      "designation": "Visiting Asst. Professor",
+      "phone": 8331,
+      "email": "kanchan"
+    },
+    {
+      "name": "Mayank Agarwal",
+      "designation": "Assistant Professor",
+      "phone": 8331,
+      "email": ""
+    }
+  ],
+  "staff":
+  [
+    {
+      "name": "Ashutosh Sinha",
+      "designation": "Scientific Officer",
+      "phone": 8097,
+      "email": "aksinha"
+    },
+    {
+      "name": "Abhishekh Dikshit",
+      "designation": "Junior Technical Superintendent",
+      "phone": 8162,
+      "email": "adixit"
+    },
+    {
+      "name": "Shailendra Kumar Verma",
+      "designation": "Junior Technical Superintendent",
+      "phone": 8333,
+      "email": "skverma"
+    },
+    {
+      "name": "Asim Kumar Maiti",
+      "designation": "Junior Technical Superintendent",
+      "phone": 8344,
+      "email": "asim"
+    },
+    {
+      "name": "Praveen Kumar Patel",
+      "designation": "Junior Technical Superintendent",
+      "phone": 8330,
+      "email": "praveenk"
+    }
+  ],
+  "labs":
+  [
+    {
+      "name": "Conference Room",
+      "phone": 8349,
+      "room": 418
+    },
+    {
+      "name": "Department Library",
+      "phone": 8335,
+      "room": 425
+    },
+    {
+      "name": "Department Office",
+      "phone": 8337,
+      "room": 427
+    },
+    {
+      "name": "Elsevier COE for NLP-1",
+      "phone": 8338,
+      "room": 510
+    },
+    {
+      "name": "Elsevier COE for NLP-2",
+      "phone": 8339,
+      "room": 510
+    },
+    {
+      "name": "Faculty Room-1",
+      "phone": 8345,
+      "room": 401
+    },
+    {
+      "name": "HOD Room",
+      "phone": 8329,
+      "room": 420
+    },
+    {
+      "name": "Meeting Room",
+      "phone": 8350,
+      "room": 419
+    },
+    {
+      "name": "MTP-1",
+      "phone": 8331,
+      "room": 422
+    },
+    {
+      "name": "Ph. D. Lab-1",
+      "phone": 8334,
+      "room": 424
+    },
+    {
+      "name": "Server Room",
+      "phone": 8336,
+      "room": 426
+    },
+    {
+      "name": "Software Lab-2",
+      "phone": 8348,
+      "room": 417
+    }
+  ]
+}
