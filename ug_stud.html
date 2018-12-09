@@ -112,7 +112,19 @@
                                 <button type="button" class="btn btn-secondary bg-light" id = "link16">'16</button>
                         </div> 
                         <div class="col-auto col-lg-12">
-                                <button type="button" class="btn btn-secondary bg-light">'15</button>
+                                <button type="button" class="btn btn-secondary bg-light" id = "link15">'15</button>
+                        </div> 
+                        <div class="col-auto col-lg-12">
+                                <button type="button" class="btn btn-secondary bg-light" id = "link14">'14</button>
+                        </div> 
+                        <div class="col-auto col-lg-12">
+                                <button type="button" class="btn btn-secondary bg-light" id = "link13">'13</button>
+                        </div> 
+                        <div class="col-auto col-lg-12">
+                                <button type="button" class="btn btn-secondary bg-light" id = "link12">'12</button>
+                        </div> 
+                        <div class="col-auto col-lg-12">
+                                <button type="button" class="btn btn-secondary bg-light" id = "link11">'11</button>
                         </div> 
                     </div>
                 </div>
@@ -266,7 +278,139 @@
     
        });
     }
+    document.getElementById('link15').onclick = function(){
+        var people = [];
+        document.getElementsByTagName('tbody')[0].innerHTML = '';
 
+        document.getElementsByClassName('btn-dark')[0].classList.add('btn-secondary');
+        document.getElementsByClassName('btn-dark')[0].classList.add('bg-light');
+        document.getElementsByClassName('btn-dark')[0].classList.remove('btn-dark');
+        
+        /* var x = document.getElementsByClassName('btn');
+        for (i = 0; i < x.length; i++) {
+            x[i].classList.remove("btn-dark");
+        } */
+        
+        document.getElementById('link15').classList.add("btn-dark");
+        document.getElementById('link15').classList.remove("btn-secondary");
+        document.getElementById('link15').classList.remove("bg-light");
+
+       $.getJSON('json/ug_stud.json', function(data) {
+           $.each(data.ug_2015, function(i, f) {
+              var tblRow = "<tr>" + "<td>" + f.roll + "</td>" +
+                "<td>" + f.name + "</td>" + "</tr>"
+               $(tblRow).appendTo("#userdata tbody");
+         });
+    
+       });
+    }
+
+        document.getElementById('link14').onclick = function(){
+        var people = [];
+        document.getElementsByTagName('tbody')[0].innerHTML = '';
+
+        document.getElementsByClassName('btn-dark')[0].classList.add('btn-secondary');
+        document.getElementsByClassName('btn-dark')[0].classList.add('bg-light');
+        document.getElementsByClassName('btn-dark')[0].classList.remove('btn-dark');
+        
+        /* var x = document.getElementsByClassName('btn');
+        for (i = 0; i < x.length; i++) {
+            x[i].classList.remove("btn-dark");
+        } */
+        
+        document.getElementById('link14').classList.add("btn-dark");
+        document.getElementById('link14').classList.remove("btn-secondary");
+        document.getElementById('link14').classList.remove("bg-light");
+
+       $.getJSON('json/ug_stud.json', function(data) {
+           $.each(data.ug_2014, function(i, f) {
+              var tblRow = "<tr>" + "<td>" + f.roll + "</td>" +
+                "<td>" + f.name + "</td>" + "</tr>"
+               $(tblRow).appendTo("#userdata tbody");
+         });
+    
+       });
+    }
+
+        document.getElementById('link13').onclick = function(){
+        var people = [];
+        document.getElementsByTagName('tbody')[0].innerHTML = '';
+
+        document.getElementsByClassName('btn-dark')[0].classList.add('btn-secondary');
+        document.getElementsByClassName('btn-dark')[0].classList.add('bg-light');
+        document.getElementsByClassName('btn-dark')[0].classList.remove('btn-dark');
+        
+        /* var x = document.getElementsByClassName('btn');
+        for (i = 0; i < x.length; i++) {
+            x[i].classList.remove("btn-dark");
+        } */
+        
+        document.getElementById('link13').classList.add("btn-dark");
+        document.getElementById('link13').classList.remove("btn-secondary");
+        document.getElementById('link13').classList.remove("bg-light");
+
+       $.getJSON('json/ug_stud.json', function(data) {
+           $.each(data.ug_2013, function(i, f) {
+              var tblRow = "<tr>" + "<td>" + f.roll + "</td>" +
+                "<td>" + f.name + "</td>" + "</tr>"
+               $(tblRow).appendTo("#userdata tbody");
+         });
+    
+       });
+    }
+
+    document.getElementById('link12').onclick = function(){
+        var people = [];
+        document.getElementsByTagName('tbody')[0].innerHTML = '';
+
+        document.getElementsByClassName('btn-dark')[0].classList.add('btn-secondary');
+        document.getElementsByClassName('btn-dark')[0].classList.add('bg-light');
+        document.getElementsByClassName('btn-dark')[0].classList.remove('btn-dark');
+        
+        /* var x = document.getElementsByClassName('btn');
+        for (i = 0; i < x.length; i++) {
+            x[i].classList.remove("btn-dark");
+        } */
+        
+        document.getElementById('link12').classList.add("btn-dark");
+        document.getElementById('link12').classList.remove("btn-secondary");
+        document.getElementById('link12').classList.remove("bg-light");
+
+       $.getJSON('json/ug_stud.json', function(data) {
+           $.each(data.ug_2012, function(i, f) {
+              var tblRow = "<tr>" + "<td>" + f.roll + "</td>" +
+                "<td>" + f.name + "</td>" + "</tr>"
+               $(tblRow).appendTo("#userdata tbody");
+         });
+    
+       });
+    }
+    document.getElementById('link11').onclick = function(){
+        var people = [];
+        document.getElementsByTagName('tbody')[0].innerHTML = '';
+
+        document.getElementsByClassName('btn-dark')[0].classList.add('btn-secondary');
+        document.getElementsByClassName('btn-dark')[0].classList.add('bg-light');
+        document.getElementsByClassName('btn-dark')[0].classList.remove('btn-dark');
+        
+        /* var x = document.getElementsByClassName('btn');
+        for (i = 0; i < x.length; i++) {
+            x[i].classList.remove("btn-dark");
+        } */
+        
+        document.getElementById('link11').classList.add("btn-dark");
+        document.getElementById('link11').classList.remove("btn-secondary");
+        document.getElementById('link11').classList.remove("bg-light");
+
+       $.getJSON('json/ug_stud.json', function(data) {
+           $.each(data.ug_2011, function(i, f) {
+              var tblRow = "<tr>" + "<td>" + f.roll + "</td>" +
+                "<td>" + f.name + "</td>" + "</tr>"
+               $(tblRow).appendTo("#userdata tbody");
+         });
+    
+       });
+    }
 
     $(function() {
         

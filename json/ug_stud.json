@@ -1,24 +1,1629 @@
 {
     "ug_2018": [
-        {
-            "name": "Amish Mittal",
-            "roll": 20
-        },
-        {
-            "name": "Aryan Kothari",
-            "roll": 21
-        }
-
+        
+            {
+              "roll": "1801CS01",
+              "name": "Aarya Varat Joshi"
+            },
+            {
+              "roll": "1801CS02",
+              "name": "Abhijeet Shivaji Khandwe"
+            },
+            {
+              "roll": "1801CS03",
+              "name": "Abhishek Chopra"
+            },
+            {
+              "roll": "1801CS04",
+              "name": "Aithi Tejaswani"
+            },
+            {
+              "roll": "1801CS05",
+              "name": "Aman Gupta"
+            },
+            {
+              "roll": "1801CS06",
+              "name": "Amaraneni Navyasree"
+            },
+            {
+              "roll": "1801CS07",
+              "name": "Amish Mittal"
+            },
+            {
+              "roll": "1801CS08",
+              "name": "Ammaar Ahmad"
+            },
+            {
+              "roll": "1801CS09",
+              "name": "Anirban Nandi"
+            },
+            {
+              "roll": "1801CS10",
+              "name": "Aryan Kothari"
+            },
+            {
+              "roll": "1801CS11",
+              "name": "Ayush Pandey"
+            },
+            {
+              "roll": "1801CS12",
+              "name": "Bablu Kumar"
+            },
+            {
+              "roll": "1801CS13",
+              "name": "Balbeer Yadav"
+            },
+            {
+              "roll": "1801CS14",
+              "name": "Basa Sai Rohan"
+            },
+            {
+              "roll": "1801CS15",
+              "name": "Bhumika Shivani"
+            },
+            {
+              "roll": "1801CS16",
+              "name": "Chandrawanshi Mangesh Shivaji"
+            },
+            {
+              "roll": "1801CS17",
+              "name": "Chanti Sai Venkata Reddy"
+            },
+            {
+              "roll": "1801CS18",
+              "name": "Dacharla Venkata Rao"
+            },
+            {
+              "roll": "1801CS19",
+              "name": "Devanshu Raj"
+            },
+            {
+              "roll": "1801CS20",
+              "name": "Garima Jain"
+            },
+            {
+              "roll": "1801CS21",
+              "name": "Harsh Gupta"
+            },
+            {
+              "roll": "1801CS22",
+              "name": "Hrishabh Raj"
+            },
+            {
+              "roll": "1801CS23",
+              "name": "Jella Sri Harsha Vardhan Prasad"
+            },
+            {
+              "roll": "1801CS24",
+              "name": "Jonishbhai Bharatbhai Solanki"
+            },
+            {
+              "roll": "1801CS25",
+              "name": "Joshika"
+            },
+            {
+              "roll": "1801CS26",
+              "name": "Kalluri Ameeth"
+            },
+            {
+              "roll": "1801CS27",
+              "name": "Kamal Choudhury"
+            },
+            {
+              "roll": "1801CS28",
+              "name": "Kolaparthi Vamsi"
+            },
+            {
+              "roll": "1801CS29",
+              "name": "Kundarapu Harshavardhan"
+            },
+            {
+              "roll": "1801CS30",
+              "name": "Kunj Taneja"
+            },
+            {
+              "roll": "1801CS31",
+              "name": "Maramreddy Maheeth Reddy"
+            },
+            {
+              "roll": "1801CS32",
+              "name": "Musukula Nitesh Reddy"
+            },
+            {
+              "roll": "1801CS33",
+              "name": "Nischal A"
+            },
+            {
+              "roll": "1801CS34",
+              "name": "Oindrila Bhadra"
+            },
+            {
+              "roll": "1801CS35",
+              "name": "Pabbathi Haindhavi"
+            },
+            {
+              "roll": "1801CS36",
+              "name": "Peethala Mahesh Babu"
+            },
+            {
+              "roll": "1801CS37",
+              "name": "Pingali Venkata Sriram"
+            },
+            {
+              "roll": "1801CS38",
+              "name": "Pranay Kumar Gupta"
+            },
+            {
+              "roll": "1801CS39",
+              "name": "Ritwiz Sinha"
+            },
+            {
+              "roll": "1801CS40",
+              "name": "Roshan Kumar"
+            },
+            {
+              "roll": "1801CS41",
+              "name": "Sahil Sharma"
+            },
+            {
+              "roll": "1801CS42",
+              "name": "Sameer Raj"
+            },
+            {
+              "roll": "1801CS43",
+              "name": "Samrathpreet Singh Randhawa"
+            },
+            {
+              "roll": "1801CS44",
+              "name": "Saubhik Kumar"
+            },
+            {
+              "roll": "1801CS45",
+              "name": "Sawan Kumar"
+            },
+            {
+              "roll": "1801CS46",
+              "name": "Shashwat Mahajan"
+            },
+            {
+              "roll": "1801CS47",
+              "name": "Shreya Sinha"
+            },
+            {
+              "roll": "1801CS48",
+              "name": "Sohil Kumar Lamba"
+            },
+            {
+              "roll": "1801CS49",
+              "name": "Sohil Yadav"
+            },
+            {
+              "roll": "1801CS50",
+              "name": "Somenath Sarkar"
+            },
+            {
+              "roll": "1801CS51",
+              "name": "Souhardya Das Chowdhury"
+            },
+            {
+              "roll": "1801CS52",
+              "name": "Sriyans"
+            },
+            {
+              "roll": "1801CS53",
+              "name": "Sumit Raj"
+            },
+            {
+              "roll": "1801CS54",
+              "name": "Sunny Chaturvedi"
+            },
+            {
+              "roll": "1801CS55",
+              "name": "Suraj Bakawat"
+            },
+            {
+              "roll": "1801CS56",
+              "name": "Sushant Kumar Bharti"
+            },
+            {
+              "roll": "1801CS57",
+              "name": "Tirupathi Gracy Hephzibah"
+            },
+            {
+              "roll": "1801CS58",
+              "name": "Vaibhav Gakhreja"
+            },
+            {
+              "roll": "1801CS59",
+              "name": "Vasireddy Siva Subhang"
+            },
+            {
+              "roll": "1801CS60",
+              "name": "Vinay Kumar Meena"
+            },
+            {
+              "roll": "1801CS61",
+              "name": "Yarramala Dishith Chandra"
+            },
+            {
+              "roll": "1801CS62",
+              "name": "Yash Garg"
+            },
+            {
+              "roll": "1801CS63",
+              "name": "Yash Prasad"
+            }
     ],
     "ug_2017": [
         {
-            "name": "Random Clark",
-            "roll": 20
+          "roll": "1701CS01",
+          "name": "Adarsh Kumar Chaudhary"
         },
         {
-            "name": "Random Ben",
-            "roll": 21
+          "roll": "1701CS02",
+          "name": "Ajeet Kumar"
+        },
+        {
+          "roll": "1701CS03",
+          "name": "Akshat Jain"
+        },
+        {
+          "roll": "1701CS04",
+          "name": "Amit Priyankar"
+        },
+        {
+          "roll": "1701CS05",
+          "name": "Ankit Kumar"
+        },
+        {
+          "roll": "1701CS06",
+          "name": "Ankit Singh"
+        },
+        {
+          "roll": "1701CS07",
+          "name": "Ankur Dubey"
+        },
+        {
+          "roll": "1701CS08",
+          "name": "Anubhav"
+        },
+        {
+          "roll": "1701CS09",
+          "name": "Anuj Shastri"
+        },
+        {
+          "roll": "1701CS10",
+          "name": "Arsh Mahajan"
+        },
+        {
+          "roll": "1701CS11",
+          "name": "Arya Das"
+        },
+        {
+          "roll": "1701CS12",
+          "name": "Asutosh Swain"
+        },
+        {
+          "roll": "1701CS13",
+          "name": "Atul Upadhyay"
+        },
+        {
+          "roll": "1701CS14",
+          "name": "Bhola Kumar"
+        },
+        {
+          "roll": "1701CS15",
+          "name": "Boppana Dhanvanth"
+        },
+        {
+          "roll": "1701CS16",
+          "name": "Chandan Kumar"
+        },
+        {
+          "roll": "1701CS17",
+          "name": "Deepanjan Datta"
+        },
+        {
+          "roll": "1701CS18",
+          "name": "Dheeraj Kumar"
+        },
+        {
+          "roll": "1701CS19",
+          "name": "Diksha Bansal"
+        },
+        {
+          "roll": "1701CS20",
+          "name": "Divyanshu N Singh"
+        },
+        {
+          "roll": "1701CS21",
+          "name": "Gaurav Kumar"
+        },
+        {
+          "roll": "1701CS22",
+          "name": "Gopugari Badrinath Reddy"
+        },
+        {
+          "roll": "1701CS23",
+          "name": "Gurramkonda Hima Sagar"
+        },
+        {
+          "roll": "1701CS24",
+          "name": "Kanav Ghai"
+        },
+        {
+          "roll": "1701CS25",
+          "name": "Kapil Gupta"
+        },
+        {
+          "roll": "1701CS26",
+          "name": "Manavjeet Gupta"
+        },
+        {
+          "roll": "1701CS27",
+          "name": "Mayank"
+        },
+        {
+          "roll": "1701CS28",
+          "name": "Mohit Kishore"
+        },
+        {
+          "roll": "1701CS29",
+          "name": "Nayan Raju Thulkar"
+        },
+        {
+          "roll": "1701CS30",
+          "name": "Nenavath Prabhu"
+        },
+        {
+          "roll": "1701CS31",
+          "name": "Nihal Kumar Kharwar"
+        },
+        {
+          "roll": "1701CS32",
+          "name": "Nikhil Nainan George"
+        },
+        {
+          "roll": "1701CS33",
+          "name": "Piyush Ramsharan Chauhan"
+        },
+        {
+          "roll": "1701CS34",
+          "name": "Praduman"
+        },
+        {
+          "roll": "1701CS35",
+          "name": "Priyanshu Nandan"
+        },
+        {
+          "roll": "1701CS36",
+          "name": "Rahul Grover"
+        },
+        {
+          "roll": "1701CS37",
+          "name": "Rahul Kumar"
+        },
+        {
+          "roll": "1701CS38",
+          "name": "Rahul Pandey"
+        },
+        {
+          "roll": "1701CS39",
+          "name": "Ravi Kishan"
+        },
+        {
+          "roll": "1701CS40",
+          "name": "Ritu Raj"
+        },
+        {
+          "roll": "1701CS41",
+          "name": "Rizwan Khan"
+        },
+        {
+          "roll": "1701CS42",
+          "name": "Rohit Kumar"
+        },
+        {
+          "roll": "1701CS43",
+          "name": "Rohit Yadav"
+        },
+        {
+          "roll": "1701CS44",
+          "name": "Shashi Ranjan"
+        },
+        {
+          "roll": "1701CS45",
+          "name": "Sheetal Gupta"
+        },
+        {
+          "roll": "1701CS46",
+          "name": "Shivansh Shukla"
+        },
+        {
+          "roll": "1701CS47",
+          "name": "Shreyash Vilas Gedkar"
+        },
+        {
+          "roll": "1701CS48",
+          "name": "Shubhankar Amitabh"
+        },
+        {
+          "roll": "1701CS49",
+          "name": "Snigdh Sinha"
+        },
+        {
+          "roll": "1701CS50",
+          "name": "Sunny Singh"
+        },
+        {
+          "roll": "1701CS51",
+          "name": "Vaibhav Gajbhiye"
+        },
+        {
+          "roll": "1701CS52",
+          "name": "Vatsal Singhal"
+        },
+        {
+          "roll": "1701CS53",
+          "name": "Vijigiri Vrushank Varma"
+        },
+        {
+          "roll": "1701CS54",
+          "name": "Vinnakota Sai Sujeeth"
+        },
+        {
+          "roll": "1701CS55",
+          "name": "Vivek Kumar Shaw"
+        },
+        {
+          "roll": "1701CS56",
+          "name": "Umang Jain"
+        },
+        {
+          "roll": "1701CS57",
+          "name": "Harsh Jindal"
+        },
+        {
+          "roll": "1701CS58",
+          "name": "Shrish Chandra Sharma"
+        },
+        {
+          "roll": "1701CS59",
+          "name": "Vaibhav Pandey"
+        },
+        {
+          "roll": "1701CS60",
+          "name": "Gurpreet Singh"
+        },
+        {
+          "roll": "1701CS61",
+          "name": "Sachin Pandey"
         }
-        
-    ]
+      ],
+      "ug_2016":
+      [
+        {
+          "roll": "1601CS01",
+          "name": "Abhinav Siddharth"
+        },
+        {
+          "roll": "1601CS02",
+          "name": "Abhishek Nautiyal"
+        },
+        {
+          "roll": "1601CS03",
+          "name": "Aditya Prakash Patra"
+        },
+        {
+          "roll": "1601CS04",
+          "name": "Amit Ranjan"
+        },
+        {
+          "roll": "1601CS05",
+          "name": "Anurag"
+        },
+        {
+          "roll": "1601CS06",
+          "name": "Ashutosh Mishra"
+        },
+        {
+          "roll": "1601CS07",
+          "name": "Balija Bala Shashank"
+        },
+        {
+          "roll": "1601CS08",
+          "name": "Biswas Tameesh"
+        },
+        {
+          "roll": "1601CS09",
+          "name": "Chopra Saraansh"
+        },
+        {
+          "roll": "1601CS10",
+          "name": "Deepak Kumar"
+        },
+        {
+          "roll": "1601CS11",
+          "name": "Devansh Gupta"
+        },
+        {
+          "roll": "1601CS12",
+          "name": "Dinesh Gaur"
+        },
+        {
+          "roll": "1601CS13",
+          "name": "Fazle Rahman Ejazi"
+        },
+        {
+          "roll": "1601CS14",
+          "name": "Harshika"
+        },
+        {
+          "roll": "1601CS15",
+          "name": "Jadhav Sai Krishna"
+        },
+        {
+          "roll": "1601CS16",
+          "name": "Jammigumpula Venkata Narayana"
+        },
+        {
+          "roll": "1601CS17",
+          "name": "Kadum Perme"
+        },
+        {
+          "roll": "1601CS18",
+          "name": "Karmankar Vijay Ratan"
+        },
+        {
+          "roll": "1601CS19",
+          "name": "Kaustubh Sharma"
+        },
+        {
+          "roll": "1601CS20",
+          "name": "Kulkarni Parth Parag"
+        },
+        {
+          "roll": "1601CS21",
+          "name": "Manish Kumar"
+        },
+        {
+          "roll": "1601CS22",
+          "name": "Mayank Bipinchandra Vaidya"
+        },
+        {
+          "roll": "1601CS23",
+          "name": "Md Ashraf Moid"
+        },
+        {
+          "roll": "1601CS24",
+          "name": "Md Aurangzeb"
+        },
+        {
+          "roll": "1601CS25",
+          "name": "Milan Jitendra Jolly"
+        },
+        {
+          "roll": "1601CS26",
+          "name": "Mukthapuram Sahruday Reddy"
+        },
+        {
+          "roll": "1601CS27",
+          "name": "Mukuntha N S"
+        },
+        {
+          "roll": "1601CS28",
+          "name": "Naveen"
+        },
+        {
+          "roll": "1601CS29",
+          "name": "Patil Sanket Purushottam"
+        },
+        {
+          "roll": "1601CS30",
+          "name": "Piyush Singh"
+        },
+        {
+          "roll": "1601CS31",
+          "name": "Potnuru Vedavikas"
+        },
+        {
+          "roll": "1601CS32",
+          "name": "Prajjwal Arya"
+        },
+        {
+          "roll": "1601CS33",
+          "name": "Prakash Kumar"
+        },
+        {
+          "roll": "1601CS34",
+          "name": "Puneet Chhabra"
+        },
+        {
+          "roll": "1601CS35",
+          "name": "R J Srivatsa"
+        },
+        {
+          "roll": "1601CS36",
+          "name": "Raj Mani"
+        },
+        {
+          "roll": "1601CS37",
+          "name": "Raj Shekhar"
+        },
+        {
+          "roll": "1601CS38",
+          "name": "Rajeev Kumar"
+        },
+        {
+          "roll": "1601CS39",
+          "name": "Sambana Pranay Shashank"
+        },
+        {
+          "roll": "1601CS40",
+          "name": "Sathvikesh Damala"
+        },
+        {
+          "roll": "1601CS41",
+          "name": "Saurav"
+        },
+        {
+          "roll": "1601CS42",
+          "name": "Shashank Saxena"
+        },
+        {
+          "roll": "1601CS43",
+          "name": "Shaurya Gupta"
+        },
+        {
+          "roll": "1601CS44",
+          "name": "Shikhar Jaiswal"
+        },
+        {
+          "roll": "1601CS46",
+          "name": "Siddharth Thakur"
+        },
+        {
+          "roll": "1601CS47",
+          "name": "Tadar Kama"
+        },
+        {
+          "roll": "1601CS48",
+          "name": "Viswak Hanumanth G K"
+        },
+        {
+          "roll": "1601CS49",
+          "name": "Vivek Raj"
+        },
+        {
+          "roll": "1601CS50",
+          "name": "Yash Palriwal"
+        },
+        {
+          "roll": "1601CS51",
+          "name": "Mayank Wadhwani"
+        },
+        {
+          "roll": "1601CS52",
+          "name": "Arundhati Gupta"
+        },
+        {
+          "roll": "1601CS53",
+          "name": "Dhanush S R"
+        },
+        {
+          "roll": "1601CS54",
+          "name": "Anushree Jain"
+        },
+        {
+          "roll": "1601CS55",
+          "name": "Naveen T"
+        },
+        {
+          "roll": "1601CS56",
+          "name": "Arunika Yadav"
+        }
+      ],
+      "ug_2015":
+      [
+        {
+          "roll": "1501CS01",
+          "name": "Abhishek"
+        },
+        {
+          "roll": "1501CS02",
+          "name": "Abhishek Agrawal"
+        },
+        {
+          "roll": "1501CS03",
+          "name": "Abhishek Kumar"
+        },
+        {
+          "roll": "1501CS04",
+          "name": "Ajay Deshmukh"
+        },
+        {
+          "roll": "1501CS06",
+          "name": "Anand Raj"
+        },
+        {
+          "roll": "1501CS07",
+          "name": "Ananda Mazumder"
+        },
+        {
+          "roll": "1501CS08",
+          "name": "Anupam Singhal"
+        },
+        {
+          "roll": "1501CS09",
+          "name": "Arinjaya Khare"
+        },
+        {
+          "roll": "1501CS10",
+          "name": "Ashish Raj"
+        },
+        {
+          "roll": "1501CS11",
+          "name": "Ashutosh Drolia"
+        },
+        {
+          "roll": "1501CS12",
+          "name": "Ashutosh Dubey"
+        },
+        {
+          "roll": "1501CS13",
+          "name": "Ashutosh Kumar"
+        },
+        {
+          "roll": "1501CS14",
+          "name": "Avinash Kumar"
+        },
+        {
+          "roll": "1501CS15",
+          "name": "Ayush Mishra"
+        },
+        {
+          "roll": "1501CS16",
+          "name": "Ayush Sharma"
+        },
+        {
+          "roll": "1501CS17",
+          "name": "B.Sandeep Srivastav"
+        },
+        {
+          "roll": "1501CS18",
+          "name": "Chirag Wadhera"
+        },
+        {
+          "roll": "1501CS19",
+          "name": "Dasaradhi Chandra Vadhan"
+        },
+        {
+          "roll": "1501CS20",
+          "name": "Deepak Verma"
+        },
+        {
+          "roll": "1501CS21",
+          "name": "Himanshu Barua"
+        },
+        {
+          "roll": "1501CS22",
+          "name": "Jai Tatia"
+        },
+        {
+          "roll": "1501CS23",
+          "name": "Karanam Mahidhar"
+        },
+        {
+          "roll": "1501CS24",
+          "name": "Korra Ravinder"
+        },
+        {
+          "roll": "1501CS25",
+          "name": "Kshitij Susheel Jauhri"
+        },
+        {
+          "roll": "1501CS26",
+          "name": "Kulkarni Malhar Sanjay"
+        },
+        {
+          "roll": "1501CS27",
+          "name": "Lavudya Santhosh Kumar"
+        },
+        {
+          "roll": "1501CS28",
+          "name": "Moolchandra Mridul"
+        },
+        {
+          "roll": "1501CS29",
+          "name": "Nabeel Qaiser"
+        },
+        {
+          "roll": "1501CS30",
+          "name": "Nerella Jona Solomon"
+        },
+        {
+          "roll": "1501CS31",
+          "name": "Pedgaonkar Rushikesh Shamsundar"
+        },
+        {
+          "roll": "1501CS32",
+          "name": "Pradeep Kumar"
+        },
+        {
+          "roll": "1501CS33",
+          "name": "Pranav Mutharia"
+        },
+        {
+          "roll": "1501CS34",
+          "name": "Praveen Singh Dhaked"
+        },
+        {
+          "roll": "1501CS35",
+          "name": "Raghav Jindal"
+        },
+        {
+          "roll": "1501CS36",
+          "name": "Rijul Dhir"
+        },
+        {
+          "roll": "1501CS37",
+          "name": "Saharsh Singh"
+        },
+        {
+          "roll": "1501CS38",
+          "name": "Sahil Mansoori"
+        },
+        {
+          "roll": "1501CS39",
+          "name": "Sahil Sharma"
+        },
+        {
+          "roll": "1501CS40",
+          "name": "Saikat Sarkar"
+        },
+        {
+          "roll": "1501CS41",
+          "name": "Shinku"
+        },
+        {
+          "roll": "1501CS42",
+          "name": "Skand Gupta"
+        },
+        {
+          "roll": "1501CS43",
+          "name": "Suvom Das"
+        },
+        {
+          "roll": "1501CS44",
+          "name": "Syed Arbaaz Qureshi"
+        },
+        {
+          "roll": "1501CS45",
+          "name": "Thatiparthi Chaithanya Reddy"
+        },
+        {
+          "roll": "1501CS46",
+          "name": "Unnikrishnan.A.S"
+        },
+        {
+          "roll": "1501CS47",
+          "name": "Vaibhav Sisodiya"
+        },
+        {
+          "roll": "1501CS48",
+          "name": "Varun Garg"
+        },
+        {
+          "roll": "1501CS49",
+          "name": "Vijay Kumar"
+        },
+        {
+          "roll": "1501CS50",
+          "name": "Yogendra Singh Idapachi"
+        }
+      ],
+      "ug_2014":
+      [
+        {
+          "roll": "1401CS01",
+          "name": "Abhinay Paladugu"
+        },
+        {
+          "roll": "1401CS02",
+          "name": "Abhishek Jaiswal"
+        },
+        {
+          "roll": "1401CS04",
+          "name": "Aman Prakash"
+        },
+        {
+          "roll": "1401CS05",
+          "name": "Awanish Kumar Das"
+        },
+        {
+          "roll": "1401CS06",
+          "name": "Badeti Sathyaprakash"
+        },
+        {
+          "roll": "1401CS07",
+          "name": "Bhukya Koushik Raj"
+        },
+        {
+          "roll": "1401CS08",
+          "name": "Bora Raghu Ram Reddy"
+        },
+        {
+          "roll": "1401CS09",
+          "name": "Bora Uday"
+        },
+        {
+          "roll": "1401CS10",
+          "name": "Boreddy Vishnukanth Reddy"
+        },
+        {
+          "roll": "1401CS11",
+          "name": "Busireddy Ganesh Reddy"
+        },
+        {
+          "roll": "1401CS12",
+          "name": "Chinnapureddy Vinileswar Reddy"
+        },
+        {
+          "roll": "1401CS13",
+          "name": "Chirag Soni"
+        },
+        {
+          "roll": "1401CS14",
+          "name": "Edithal S S Vignesh"
+        },
+        {
+          "roll": "1401CS15",
+          "name": "Gagan Kumar"
+        },
+        {
+          "roll": "1401CS16",
+          "name": "Genom Lego"
+        },
+        {
+          "roll": "1401CS17",
+          "name": "Gopal Kumar"
+        },
+        {
+          "roll": "1401CS18",
+          "name": "Hinge Mithilesh Susheel"
+        },
+        {
+          "roll": "1401CS19",
+          "name": "Jitendra Kumar"
+        },
+        {
+          "roll": "1401CS20",
+          "name": "Kavuri Kavya"
+        },
+        {
+          "roll": "1401CS21",
+          "name": "Konda Tapasya"
+        },
+        {
+          "roll": "1401CS22",
+          "name": "Laxman Kumar Prabhakar"
+        },
+        {
+          "roll": "1401CS24",
+          "name": "Maddu Jeevan Surya"
+        },
+        {
+          "roll": "1401CS25",
+          "name": "Mayank Goyal"
+        },
+        {
+          "roll": "1401CS26",
+          "name": "Miryala Saisree Reddy"
+        },
+        {
+          "roll": "1401CS27",
+          "name": "Mritunjay Kumar"
+        },
+        {
+          "roll": "1401CS28",
+          "name": "Naman Agarwal"
+        },
+        {
+          "roll": "1401CS29",
+          "name": "Newton Kumar"
+        },
+        {
+          "roll": "1401CS30",
+          "name": "Patil Shreyas Sudesh"
+        },
+        {
+          "roll": "1401CS31",
+          "name": "Pogiri Venkata Sai Chakradhar"
+        },
+        {
+          "roll": "1401CS32",
+          "name": "Poojari Venkatesh"
+        },
+        {
+          "roll": "1401CS33",
+          "name": "Pralay Ramteke"
+        },
+        {
+          "roll": "1401CS34",
+          "name": "Pranjali Kokare"
+        },
+        {
+          "roll": "1401CS35",
+          "name": "Prashant"
+        },
+        {
+          "roll": "1401CS36",
+          "name": "Prateek Sharma"
+        },
+        {
+          "roll": "1401CS37",
+          "name": "Prince Raheja"
+        },
+        {
+          "roll": "1401CS38",
+          "name": "Rajdeep Gupta"
+        },
+        {
+          "roll": "1401CS39",
+          "name": "Rapeti Subhang"
+        },
+        {
+          "roll": "1401CS40",
+          "name": "Rohan Rathi"
+        },
+        {
+          "roll": "1401CS41",
+          "name": "S Subramaniyam"
+        },
+        {
+          "roll": "1401CS42",
+          "name": "Sante Kushal Santhosh"
+        },
+        {
+          "roll": "1401CS43",
+          "name": "Shendurwadkar Dnyaneshwar Digambarrao"
+        },
+        {
+          "roll": "1401CS44",
+          "name": "Shifona Garg"
+        },
+        {
+          "roll": "1401CS45",
+          "name": "Shubham Kumar Verma"
+        },
+        {
+          "roll": "1401CS46",
+          "name": "Sushant Kumar"
+        },
+        {
+          "roll": "1401CS47",
+          "name": "Tanmay Das"
+        },
+        {
+          "roll": "1401CS48",
+          "name": "Vipin Mavi"
+        },
+        {
+          "roll": "1401CS49",
+          "name": "Vishal Solanki"
+        },
+        {
+          "roll": "1401CS52",
+          "name": "Anupam Das"
+        }
+      ],
+    "ug_2013":
+    [
+        {
+          "roll": "1301CS01",
+          "name": "Abhishek Kumar Tiwari"
+        },
+        {
+          "roll": "1301CS02",
+          "name": "Aditya Gupta"
+        },
+        {
+          "roll": "1301CS03",
+          "name": "Aditya Gupta"
+        },
+        {
+          "roll": "1301CS04",
+          "name": "Agni Besh Chauhan"
+        },
+        {
+          "roll": "1301CS05",
+          "name": "Akshay Mohan"
+        },
+        {
+          "roll": "1301CS06",
+          "name": "Alok Kumar"
+        },
+        {
+          "roll": "1301CS07",
+          "name": "Alok Patwal"
+        },
+        {
+          "roll": "1301CS08",
+          "name": "Anand Kumar"
+        },
+        {
+          "roll": "1301CS09",
+          "name": "Anish Rawel Soy"
+        },
+        {
+          "roll": "1301CS10",
+          "name": "Ankit Kumar"
+        },
+        {
+          "roll": "1301CS11",
+          "name": "Anushrut S Hande"
+        },
+        {
+          "roll": "1301CS12",
+          "name": "Arindam Banerjee"
+        },
+        {
+          "roll": "1301CS13",
+          "name": "Ashutosh Kumar Tripathi"
+        },
+        {
+          "roll": "1301CS14",
+          "name": "Bhoyar Ashwin Ashok"
+        },
+        {
+          "roll": "1301CS15",
+          "name": "Dhruv Jhorar"
+        },
+        {
+          "roll": "1301CS16",
+          "name": "Dhruv Upadhyay"
+        },
+        {
+          "roll": "1301CS17",
+          "name": "Don Kurian Dennis"
+        },
+        {
+          "roll": "1301CS18",
+          "name": "Ganni Sri Sanjeevini Devi"
+        },
+        {
+          "roll": "1301CS19",
+          "name": "Harshit"
+        },
+        {
+          "roll": "1301CS20",
+          "name": "Himanshu Garg"
+        },
+        {
+          "roll": "1301CS21",
+          "name": "Himanshu Parmar"
+        },
+        {
+          "roll": "1301CS22",
+          "name": "K Tejram"
+        },
+        {
+          "roll": "1301CS23",
+          "name": "Kalahasti Venkata Abhishekh"
+        },
+        {
+          "roll": "1301CS24",
+          "name": "Kuldeep Meena"
+        },
+        {
+          "roll": "1301CS25",
+          "name": "Kuntal Das"
+        },
+        {
+          "roll": "1301CS26",
+          "name": "M. Ashrit Kumar"
+        },
+        {
+          "roll": "1301CS27",
+          "name": "Manu Kumar Sharma"
+        },
+        {
+          "roll": "1301CS28",
+          "name": "Mayank Arya"
+        },
+        {
+          "roll": "1301CS29",
+          "name": "Naveen Kumar M G"
+        },
+        {
+          "roll": "1301CS30",
+          "name": "Padma Ram Meg"
+        },
+        {
+          "roll": "1301CS31",
+          "name": "Pallamparthi Sai Shandeep Reddy"
+        },
+        {
+          "roll": "1301CS32",
+          "name": "Parikshit Saraswat"
+        },
+        {
+          "roll": "1301CS33",
+          "name": "Prateek Mohanty"
+        },
+        {
+          "roll": "1301CS34",
+          "name": "Rahul Arya"
+        },
+        {
+          "roll": "1301CS35",
+          "name": "Rajkishor Ranjan Kumar"
+        },
+        {
+          "roll": "1301CS36",
+          "name": "Ramayan Kumar"
+        },
+        {
+          "roll": "1301CS37",
+          "name": "Ravi Sonam"
+        },
+        {
+          "roll": "1301CS38",
+          "name": "Ritik Prasad Mathur"
+        },
+        {
+          "roll": "1301CS39",
+          "name": "Sagar Kumar Verma"
+        },
+        {
+          "roll": "1301CS40",
+          "name": "Sandip Mandal"
+        },
+        {
+          "roll": "1301CS41",
+          "name": "Sheik Sameeruddin"
+        },
+        {
+          "roll": "1301CS42",
+          "name": "Sumit Asthana"
+        },
+        {
+          "roll": "1301CS43",
+          "name": "Sunny Narayan"
+        },
+        {
+          "roll": "1301CS44",
+          "name": "Vinay Kumar Chaudhary"
+        },
+        {
+          "roll": "1301CS45",
+          "name": "Vinay Kumar Yadav"
+        },
+        {
+          "roll": "1301CS46",
+          "name": "Vishal Chauhan"
+        },
+        {
+          "roll": "1301CS47",
+          "name": "Vuppu Sai Teja"
+        }
+      ],
+      "ug_2012":
+      [
+        {
+          "roll": "1201CS01",
+          "name": "Ajit Mahesh Sahu"
+        },
+        {
+          "roll": "1201CS02",
+          "name": "Ankit Lamba"
+        },
+        {
+          "roll": "1201CS03",
+          "name": "Anubhav Joshi"
+        },
+        {
+          "roll": "1201CS04",
+          "name": "Anusha Kandavalli"
+        },
+        {
+          "roll": "1201CS05",
+          "name": "Anwesh Sinha Ray"
+        },
+        {
+          "roll": "1201CS06",
+          "name": "Ashish Bhuker"
+        },
+        {
+          "roll": "1201CS07",
+          "name": "Ayush Kumar"
+        },
+        {
+          "roll": "1201CS08",
+          "name": "Bhookya Vinayak"
+        },
+        {
+          "roll": "1201CS09",
+          "name": "Cherupally Sairam"
+        },
+        {
+          "roll": "1201CS10",
+          "name": "Divyansh Singh"
+        },
+        {
+          "roll": "1201CS11",
+          "name": "Donthiri Sashidhar"
+        },
+        {
+          "roll": "1201CS12",
+          "name": "Dosapati Vinod"
+        },
+        {
+          "roll": "1201CS13",
+          "name": "Duvvuru Yaswanth"
+        },
+        {
+          "roll": "1201CS14",
+          "name": "Gurpinder Singh Randhawa"
+        },
+        {
+          "roll": "1201CS15",
+          "name": "Hukami Meena"
+        },
+        {
+          "roll": "1201CS16",
+          "name": "Huma Farheen"
+        },
+        {
+          "roll": "1201CS17",
+          "name": "K Rishita"
+        },
+        {
+          "roll": "1201CS18",
+          "name": "Kumar Saurav Sinha"
+        },
+        {
+          "roll": "1201CS19",
+          "name": "Kunal Shubham"
+        },
+        {
+          "roll": "1201CS20",
+          "name": "Manvee"
+        },
+        {
+          "roll": "1201CS21",
+          "name": "Mukesh Meena"
+        },
+        {
+          "roll": "1201CS22",
+          "name": "Naresh"
+        },
+        {
+          "roll": "1201CS23",
+          "name": "Nerella Harshini"
+        },
+        {
+          "roll": "1201CS24",
+          "name": "Ojas Mangalvedhekar"
+        },
+        {
+          "roll": "1201CS25",
+          "name": "Potdar Rushikesh Ravindra"
+        },
+        {
+          "roll": "1201CS26",
+          "name": "Prasad Ayush Surendra"
+        },
+        {
+          "roll": "1201CS27",
+          "name": "Ranat Ghosh"
+        },
+        {
+          "roll": "1201CS28",
+          "name": "Rohan Gupta"
+        },
+        {
+          "roll": "1201CS29",
+          "name": "Sachin Jangir"
+        },
+        {
+          "roll": "1201CS30",
+          "name": "Sarbpreet"
+        },
+        {
+          "roll": "1201CS31",
+          "name": "Satyanshu Shukla"
+        },
+        {
+          "roll": "1201CS32",
+          "name": "Shashank Singh"
+        },
+        {
+          "roll": "1201CS33",
+          "name": "Sourabh Bhagat"
+        },
+        {
+          "roll": "1201CS34",
+          "name": "Utkarsh Gupta"
+        },
+        {
+          "roll": "1201CS35",
+          "name": "V Manish Kumar"
+        },
+        {
+          "roll": "1201CS36",
+          "name": "Vaibhav Pandey"
+        },
+        {
+          "roll": "1201CS37",
+          "name": "Vikas Jindal"
+        },
+        {
+          "roll": "1201CS38",
+          "name": "Vinay Kumar"
+        },
+        {
+          "roll": "1201CS39",
+          "name": "Yogesh Patel"
+        }
+      ],
+      "ug_2011":
+      [
+        {
+          "roll": "1101CS01",
+          "name": "Achintya Bhatnagar"
+        },
+        {
+          "roll": "1101CS02",
+          "name": "Akash Garg"
+        },
+        {
+          "roll": "1101CS03",
+          "name": "Akhil Sehrawat"
+        },
+        {
+          "roll": "1101CS04",
+          "name": "Akshay Verma"
+        },
+        {
+          "roll": "1101CS05",
+          "name": "Amar Sharma"
+        },
+        {
+          "roll": "1101CS06",
+          "name": "Ankish Gupta"
+        },
+        {
+          "roll": "1101CS07",
+          "name": "Anupam Jena"
+        },
+        {
+          "roll": "1101CS08",
+          "name": "Arun Pandey"
+        },
+        {
+          "roll": "1101CS09",
+          "name": "Ayush Jain"
+        },
+        {
+          "roll": "1101CS10",
+          "name": "Balaji Krishnan"
+        },
+        {
+          "roll": "1101CS11",
+          "name": "Chandra Mohana Rao Pinninti"
+        },
+        {
+          "roll": "1101CS12",
+          "name": "Chouti Roseleen"
+        },
+        {
+          "roll": "1101CS13",
+          "name": "Devender Verma"
+        },
+        {
+          "roll": "1101CS14",
+          "name": "Dheerendra Kumar Meena"
+        },
+        {
+          "roll": "1101CS15",
+          "name": "Divyansh Guwalani"
+        },
+        {
+          "roll": "1101CS16",
+          "name": "Dontaraboina Manasa Veena"
+        },
+        {
+          "roll": "1101CS17",
+          "name": "Gaurav Suman"
+        },
+        {
+          "roll": "1101CS18",
+          "name": "Goruputi Bilahari"
+        },
+        {
+          "roll": "1101CS19",
+          "name": "Kandula Srikanth Reddy"
+        },
+        {
+          "roll": "1101CS20",
+          "name": "Karan Kumar"
+        },
+        {
+          "roll": "1101CS21",
+          "name": "Karthik Gopalakrishnan"
+        },
+        {
+          "roll": "1101CS22",
+          "name": "Kuldeep Kaushik"
+        },
+        {
+          "roll": "1101CS23",
+          "name": "Kundan Kumar"
+        },
+        {
+          "roll": "1101CS24",
+          "name": "Narava Chandra Kiran"
+        },
+        {
+          "roll": "1101CS25",
+          "name": "Prabhakaran S"
+        },
+        {
+          "roll": "1101CS26",
+          "name": "Prashant Shaw"
+        },
+        {
+          "roll": "1101CS27",
+          "name": "Rahul Kumar"
+        },
+        {
+          "roll": "1101CS28",
+          "name": "Rajesh Shedolkar"
+        },
+        {
+          "roll": "1101CS29",
+          "name": "Sachin Kumar"
+        },
+        {
+          "roll": "1101CS30",
+          "name": "Sarvagya Kumar"
+        },
+        {
+          "roll": "1101CS31",
+          "name": "Saswat Raj"
+        },
+        {
+          "roll": "1101CS32",
+          "name": "Savaram Naga Hitesh"
+        },
+        {
+          "roll": "1101CS33",
+          "name": "Shahil Pusarla"
+        },
+        {
+          "roll": "1101CS34",
+          "name": "Tapender Singh Yadav"
+        },
+        {
+          "roll": "1101CS35",
+          "name": "Tarun Kumar Bhukya"
+        },
+        {
+          "roll": "1101CS36",
+          "name": "Tushar Chavhan"
+        },
+        {
+          "roll": "1101CS37",
+          "name": "Vadlapatla Sneha"
+        },
+        {
+          "roll": "1101CS38",
+          "name": "Vamsi Krishna Akella"
+        },
+        {
+          "roll": "1101CS40",
+          "name": "Kaushik Nandan"
+        }
+      ]
  }
