@@ -56,11 +56,11 @@
         <li class="nav-item">
                 <a class="nav-link" href="facilities.html">Facilities</a>
         </li>
-        <li class="nav-item active">
+        <li class="nav-item">
                 <a class="nav-link" href="awards.html">Awards</a>
         </li>
-        <li class="nav-item">
-                <a class="nav-link" href="#">News</a>
+        <li class="nav-item active">
+                <a class="nav-link" href="news.html">News</a>
         </li>
         <li class="nav-item">
                 <a class="nav-link" href="directory.html">Directory</a>
@@ -92,7 +92,7 @@
                 <div class="col-lg-10">
                     <br>
                     <h1>
-                        Awards and Recognition
+                        News and Events
                     </h1>
                     <br>
                 </div>
@@ -177,9 +177,9 @@
 
     $(function() {
         
-        $.getJSON('json/awards.json', function(data) {
-           $.each(data.awards, function(i, f) {
-              var tblRow = "<li class='list-group-item list-group-item-success' >" + f.award + "</li>";
+        $.getJSON('json/news.json', function(data) {
+           $.each(data.news, function(i, f) {
+              var tblRow = "<li class='list-group-item list-group-item-danger' >" + f.news + "</li>";
                $(tblRow).appendTo(".get-data");
          });
     
