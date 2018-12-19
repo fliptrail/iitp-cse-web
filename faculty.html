@@ -9,8 +9,10 @@
         <link rel = "stylesheet" href = "./css/bootstrap.min.css">
         <link rel = "stylesheet" href = "./css/styles.css">
 
+
         <title>Computer Science and Engineering | IIT Patna</title>
-        <link rel="shortcut icon" type="image/png" href="./img/logo.png"/>
+        <link rel="shortcut icon" type="image/png" href="./img/logo2.png"/>
+
 
     </head>
 <body>
@@ -42,7 +44,7 @@
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="#">Faculty</a>
-            <a class="dropdown-item" href="faculty.html">Staff</a>
+            <a class="dropdown-item" href="#">Staff</a>
             <a class="dropdown-item" href="ug_stud.html">UG Students</a>
             <a class="dropdown-item" href="#">PG Students</a>
             <a class="dropdown-item" href="#">PhD Students</a>
@@ -52,7 +54,7 @@
                 <a class="nav-link" href="#">Research</a>
         </li>
         <li class="nav-item">
-                <a class="nav-link" href="#">Facilities</a>
+                <a class="nav-link" href="facilities.html">Facilities</a>
         </li>
         <li class="nav-item">
                 <a class="nav-link" href="#">Awards</a>
@@ -68,6 +70,7 @@
         <input class="form-control mr-sm-2 search-bar-css-override" type="search" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form>
+        
     </div>
     </nav>
     
@@ -75,81 +78,135 @@
 
     </div>
 
+    <style>
+            .btn-secondary{
+                color:black;
+            }
+            .btn-dark{
+                border: 2px solid gray;
+            }
+        </style>
+
     <div class = "container-fluid bg-light">
             <div class = "row justify-content-center home-news ">
                 <div class="col-lg-10">
                     <br>
-                    <h1>
-                        Faculty
-                    </h1>
+                    <h2>
+                        Department Directory - Faculty
+                    </h2>
+                    <h6>
+                        Scroll right on table when viewing with small screen devices.
+                    </h6>
                     <br>
                 </div>
             </div>
     </div>
-   
-                <div class="col-12 col-lg-8">
-                    <table class = "table">
-                        <thead>
-                            <tr>
-                                <th scope = "col">Photo</th>
-                                <th scope = "col">Designation</th>
-                                <th scope = "col">Email-id</th>
-                                <th scope = "col">Phone</th>
-                                <th scope = "col">Profile</th>
-                        
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>1801CS07</td>
-                                <td>Amish Mittal</td>
-                                <td>1801CS07</td>
-                                <td>Amish Mittal</td>
-                                <td>1801CS07</td>
-                            </tr>
-                            
-                        </tbody>
-                    </table>
+
+
+    <div class = "container bg-light">
+        <div class="row">
+            <div class="col-12 col-lg-12 table-responsive">
+                <table class = "table table-hover " id = "facdata">
+                    <thead class ="thead-dark">
+                        <tr>
+                            <th scope = "col">Name</th>
+                            <th scope = "col">Designation</th>
+                            <th scope = "col">Phone Extension</th>
+                            <th scope = "col">E-mail</th>
+                            <th scope = "col">Profile</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+
+                            <!-- Entries from JSON -->
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <div class="container-fluid footer">
+            <div class = "row">
+                <div class = "col">
+                    
+                </div>
+            </div>
+            <div class ="row justify-content-center">
+                <div class = "col-10">
+                        <iframe width="100%" height="200" frameborder="0" 
+                        style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Computer%20Science%20Department%2C%20IIT%20Patna&key=AIzaSyAqiVbuzuEstd-4c0yC7HmlMUFk4Zsqxh0&maptype=satellite&zoom=17" 
+                        allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="row align-items-center align-text-center">
+                    
+                <div class = "col-lg">
+                    <br>
+                    <span class = "footer-heading">Visit us at:</span>
+                    <br>
+                    <br>
+                    Indian Institute of Technology Patna
+                    <br>
+                    Bihta - 801103, Patna
+                    <br>
+                    Bihar, India
+                    <br><br>
+                </div>
+                <div class="col-lg">
+                    <span class = "footer-heading">Talk to us at:</span>
+                    <br>
+                    <br>
+                    cse_off[AT]iitp.ac.in
+                    <br>
+                    +91 612 302 8337
+                    <br>
+                    <br>
+                </div>
+            </div>
+            <div class = "row align-items-center align-text-center">
+                <div class = "col">
+                    Website made with ♡ by Amish Mittal.
                 </div>
             </div>
         </div>
 
 
-    <div class="container-fluid footer">
-        <div class="row align-items-center align-text-center">
-            <div class = "col-lg">
-                <br>
-                <span class = "footer-heading">Visit us at:</span>
-                <br>
-                <br>
-                Indian Institute of Technology Patna
-                <br>
-                Bihta - 801103, Patna
-                <br>
-                Bihar, India
-                <br><br>
-            </div>
-            <div class="col-lg">
-                <span class = "footer-heading">Talk to us at:</span>
-                <br>
-                <br>
-                cse_off[AT]iitp.ac.in
-                <br>
-                +91 612 302 8337
-                <br>
-                <br>
-            </div>
-        </div>
-        <div class = "row align-items-center align-text-center">
-            <div class = "col">
-                Website made with ♡ by Amish Mittal.
-            </div>
-        </div>
-    </div>
+
     <script src = "./js/jquery-3.3.1.js"></script>
     <script src="./js/bootstrap.min.js"></script>
     <script src = "./js/anime.min.js"></script>
     <script src = "./js/introanim.js"></script>
 
 </body>
+
+
+
+
+<script>
+
+
+    $(function() {
+        
+        $.getJSON('json/faculty.json', function(data) {
+           $.each(data.faculty, function(i, f) {
+              var tblRow = "<tr>" + "<td>" + f.name + "</td>" +
+                "<td>" + f.designation + "</td>" +
+                "<td>" + f.phone + "</td>" +
+                "<td>" + f.email + "</td>" + 
+                "<td>" + f.profile + "</td>" +"</tr>"
+               $(tblRow).appendTo("#facdata tbody");
+         });
+    
+       });
+    
+    });
+
+</script>
+
 </html>

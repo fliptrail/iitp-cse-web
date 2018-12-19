@@ -1,0 +1,102 @@
+{
+    "faculty":[
+        {
+          "name": "<img src=\"img/pb.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Prof. Pushpak \nBhattacharyya",
+          "designation": "Professor<br>Director, IIT Patna",
+          "email": "pb",
+          "phone": 8003,
+          "profile": "<a href=\"http://www.cse.iitb.ac.in/~pb/\">View Profile</a>"
+        },
+        {
+            "name": "<img src=\"img/JimsonMathew.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Dr. Jimson Mathew",
+            "designation": "Associate Professor<br>Head, CSE Department",
+            "email": "jimson",
+            "phone": 8347,
+            "profile": "<a href=\"https://www.iitp.ac.in/index.php/departments/engineering/computer-science-a-engineering/people/faculty/1502-dr-jimson-mathew.html\">View Profile</a>"
+        },
+        {
+          "name": "<img src=\"img/abyay.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Dr. Abyayananda Maiti",
+          "designation": "Asst. Professor<br>Associate Head, Computer Center",
+          "email": "abyaym",
+          "phone": 8130,
+          "profile": "<a href=\"https://www.iitp.ac.in/index.php/departments/engineering/computer-science-a-engineering/people/faculty/1095-dr-abyayananda-maiti.html\">View Profile</a>"
+        },
+        {
+          "name": "<img src=\"img/Arijit.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Dr. Arijit Mondal",
+          "designation": "Asst. Professor",
+          "email": "arijit",
+          "phone": 8161,
+          "profile": "<a href=\"https://www.iitp.ac.in/index.php/departments/engineering/computer-science-a-engineering/people/faculty/584-arijit-mondal.html\">View Profile</a>"
+        },
+        {
+          "name": "<img src=\"img/Asif.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Dr. Asif Ekbal",
+          "designation": "Associate Professor and<br>Associate Dean, R&D",
+          "email": "asif",
+          "phone": 8090,
+          "profile": "<a href=\"https://www.iitp.ac.in/~asif\">View Profile</a>"
+        },
+        {
+          "name": "<img src=\"img/Joydeep.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Dr. Joydeep Chandra",
+          "designation": "Asst. Professor<br>Head, Computer Center",
+          "email": "joydeep",
+          "phone": 8129,
+          "profile": "<a href=\"https://www.iitp.ac.in/~joydeep\">View Profile</a>"
+        },
+        {
+          "name": "<img src=\"img/Mayank_Agarwal.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Dr. Mayank Agarwal",
+          "designation": "Assistant Professor",
+          "email": "mayank265",
+          "phone": 8331,
+          "profile": "<a href=\"https://www.iitp.ac.in/index.php/departments/engineering/computer-science-a-engineering/people/faculty/3115-dr-mayank-agarwal.html\">View Profile</a>"
+        },
+        {
+          "name": "<img src=\"img/Rajiv.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Dr. Rajiv Misra",
+          "designation": "Associate Professor",
+          "email": "rajivm",
+          "phone": 8034,
+          "profile": "<a href=\"https://www.iitp.ac.in/index.php/departments/engineering/computer-science-a-engineering/people/faculty/dr-rajiv-misra.html\">View Profile</a>"
+        },
+        {
+          "name": "<img src=\"img/Raju.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Dr. Raju Halder",
+          "designation": "Asst. Professor",
+          "email": "halder",
+          "phone": 8009,
+          "profile": "<a href=\"https://www.iitp.ac.in/~halder\">View Profile</a>"
+        },
+        {
+          "name": "<img src=\"img/samrat.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Dr. Samrat Mondal",
+          "designation": "Asst. Professor",
+          "email": "samrat",
+          "phone": 8163,
+          "profile": "<a href=\"https://www.iitp.ac.in/index.php/departments/engineering/computer-science-a-engineering/people/faculty/dr-samrat-mondal.html\">View Profile</a>"
+        },
+        {
+          "name": "<img src=\"img/Somanath.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Dr. Somanath Tripathy",
+          "designation": "Associate Professor",
+          "email": "som",
+          "phone": 8036,
+          "profile": "<a href=\"https://www.iitp.ac.in/~som\">View Profile</a>"
+        },
+        {
+          "name": "<img src=\"img/saurav.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Dr. Sourav Kumar Dandapat",
+          "designation": "Asst. Professor",
+          "email": "sourav",
+          "phone": 8345,
+          "profile": "<a href=\"https://www.iitp.ac.in/index.php/departments/engineering/computer-science-a-engineering/people/faculty/1608-dr-sourav-kumar-dandapat.html\">View Profile</a>"
+        },
+        {
+          "name": "<img src=\"img/Sriparna.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Dr. Sriparna Saha",
+          "designation": "Associate Professor",
+          "email": "sriparna",
+          "phone": 8128,
+          "profile": "<a href=\"https://www.iitp.ac.in/~sriparna\">View Profile</a>"
+        },
+        {
+          "name": "<img src=\"img/suman.png\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Dr. Suman Kumar Maji",
+          "designation": "Asst. Professor",
+          "email": "smaji",
+          "phone": 8346,
+          "profile": "<a href=\"https://www.iitp.ac.in/index.php/departments/engineering/computer-science-a-engineering/people/faculty/1450-dr-suman-kumar-maji.html\">View Profile</a>"
+        }
+      ]
+}
