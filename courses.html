@@ -114,6 +114,7 @@
                     <div class="tab-pane fade show active" id="course" role="tabpanel" aria-labelledby="course-tab">
 
                         <table class="table table-hover">
+                            <caption>Click on a course for more information</caption>
                             <thead>
                               <tr>
                                 <th scope="col">Code</th>
@@ -122,29 +123,199 @@
                               </tr>
                             </thead>
                             <tbody>
-                              <tr>
-                                <th scope="row">1</th>
-                                <td>Mark</td>
-                                <td>Otto</td>
+                              <tr data-toggle="modal" data-target="#cs102">
+                                <th scope="row">CS102</th>
+                                <td>Programming & Data
+                                        Structure</td>
+                                <td>Core</td>
                               </tr>
-                              <tr>
-                                <th scope="row">2</th>
-                                <td>Jacob</td>
-                                <td>Thornton</td>
+                              <tr data-toggle="modal" data-target="#cs112">
+                                <th>CS112</th>
+                                <td>Programming and Data Structure Lab</td>
+                                <td>Core</td>
                               </tr>
-                              <tr>
-                                <th scope="row">3</th>
-                                <td>Larry the Bird</td>
-                                <td>@twitter</td>
+                              <tr  data-toggle="modal" data-target="#cs204">
+                                <th scope="row">CS204</th>
+                                <td>Algorithms</td>
+                                <td>Core</td>
                               </tr>
+                              <tr  data-toggle="modal" data-target="#cs206">
+                                    <th scope="row">CS206</th>
+                                    <td>Discrete Mathematics</td>
+                                    <td>Core</td>
+                                  </tr>
                             </tbody>
                           </table>
 
 
 
 
+                          <div class="modal fade" id="cs102" tabindex="-1" role="dialog" aria-labelledby="cs102Label" aria-hidden="true">
+                                <div class="modal-dialog modal-lg" role="document">
+                                  <div class="modal-content">
+                                    <div class="modal-header  text-white bg-dark">
+                                      <h5 class="modal-title " id="cs102Label">
+                                        <div class = "row">
+                                            <div class = "col-2">cs102</div>
+                                            <div class = "col-6">Programming and Data Structure</div>
+                                            <div class = "col-2">3-0-0-6</div>
+                                            <div class = "col-2">Prerequesites: NIL</div>
+                                        </div>
+                                      </h5>
+                                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                      </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <h5>Syllabus</h5>
+                                            <p>Introduction to digital computers; introduction to programming - variables, 
+                                            assignments; expressions; input/output; conditionals and branching; iteration; 
+                                            functions; recursion; arrays; introduction to pointers; structures; introduction 
+                                            to data-procedure encapsulation; dynamic allocation; linked structures; introduction 
+                                            to data structures stacks, queues and trees; time and space requirements.</p>
+                                        <h5>References</h5> 
+                                        <ul>
+                                            <li>B. W. Kernighan and D. Ritchie, The C Programming Language, Prentice Hall of India (2nd Edition).</li>
+                                            <li>A. Kelley and I. Pohl, A Book on C, Pearson Education ( 4th Edition).</li>
+                                            <li>P.J. Deitel and H.M. Deitel , C How To Program, Pearson Education (7th Edition).</li>
+                                        </ul>
+                                    </div>
+                                    <div class="modal-footer">
+                                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+
+                              <div class="modal fade" id="cs112" tabindex="-1" role="dialog" aria-labelledby="cs112Label" aria-hidden="true">
+                                    <div class="modal-dialog modal-lg" role="document">
+                                      <div class="modal-content">
+                                        <div class="modal-header  text-white bg-dark">
+                                          <h5 class="modal-title " id="cs112Label">
+                                            <div class = "row">
+                                                <div class = "col-2">CS112</div>
+                                                <div class = "col-6">Programming and Data Structure Lab</div>
+                                                <div class = "col-2">0-0-3-3</div>
+                                                <div class = "col-2">Prerequesites: NIL</div>
+                                            </div>
+                                          </h5>
+                                          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                          </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <h5>Syllabus</h5>
+                                                <p>Syllabus: Introduction to Unix Commands; Introduction to Program development tools - vi editor, GNU
+
+                                                        compiler, testing and debugging, etc.; Implementation of programs in C language.</p>
+                                        </div>
+                                        <div class="modal-footer">
+                                          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+
+
+                                  <div class="modal fade" id="cs204" tabindex="-1" role="dialog" aria-labelledby="cs204Label" aria-hidden="true">
+                                        <div class="modal-dialog modal-lg" role="document">
+                                          <div class="modal-content">
+                                            <div class="modal-header  text-white bg-dark">
+                                              <h5 class="modal-title " id="cs204Label">
+                                                <div class = "row">
+                                                    <div class = "col-2">CS204</div>
+                                                    <div class = "col-3">Algorithms</div>
+                                                    <div class = "col-2">3-0-0-6</div>
+                                                    <div class = "col-5">Prerequesites: CS102 & CS112</div>
+                                                </div>
+                                              </h5>
+                                              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                              </button>
+                                            </div>
+                                            <div class="modal-body">
+                                                <h5>Syllabus</h5>
+                                                    <p>Asymptotic notations, introduction to complexity (time/space) analysis of algorithms. Basic introduction to algorithmic paradigms like divide and conquer, recursion, greedy, dynamic programming, etc. Searching: binary search trees, balanced binary search trees, AVL trees and red-black
+                                                            trees, B-trees, hashing. Priority queues, heaps, Interval trees. Sorting: quick sort, heap sort, merge sort,
+
+                                                            radix sort, bucket sort, counting sort, etc and their analysis. Graph Algorithms: BFS, DFS, connected components, topological sort, minimum spanning trees, shortest paths, network flow. Reducibility between problems and NP-completeness: discussion of different NP-complete problems.
+                                                            
+                                                            
+                                                    </p>
+                                                <h5>Texts</h5> 
+                                                <ul>
+                                                    <li>M. A. Weiss, Data Structures and Problem Solving Using Java, 2nd Ed, Addison-Wesley, 2002.
+
+                                                        </li>
+                                                    <li>T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein, Introduction to Algorithms, MIT Press, 2001.</li>
+                                                    <li>B. W. Kernighan and D. Ritchie, The C Programming Language, 2nd Ed, Prentice Hall of India, 1988.</li>
+                                                    <li>A. Aho, J. E. Hopcroft and J. D. Ullman, The Design and Analysis of Computer Algorithms, Addison-Wesley, 1974.</li>
+                                                    <li>S. Sahni, Data Structures, Algorithms and Applications in C++, McGraw-Hill, 2001.</li>
+                                                    <li>M. T. Goodrich and R. Tamassia, Algorithm Design: Foundations, Analysis and Internet Examples, John Wiley & Sons, 2001. </li>
+                                                </ul>
+                                            </div>
+                                            <div class="modal-footer">
+                                              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+
+
+                                
+                                <div class="modal fade" id="cs206" tabindex="-1" role="dialog" aria-labelledby="cs206Label" aria-hidden="true">
+                                    <div class="modal-dialog modal-lg" role="document">
+                                        <div class="modal-content">
+                                        <div class="modal-header  text-white bg-dark">
+                                            <h5 class="modal-title " id="cs206Label">
+                                            <div class = "row">
+                                                <div class = "col-2">CS206</div>
+                                                <div class = "col-6">Discrete Mathematics</div>
+                                                <div class = "col-2">3-0-0-6</div>
+                                                <div class = "col-2">Prerequesites:</div>
+                                            </div>
+                                            </h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <h5>Syllabus</h5>
+                                                <p>Propositional logic: Syntax, semantics, valid, satisfiable and unsatisfiable formulas, encoding and examining the validity of some logical arguments; Recurrences, summations, generating functions, asymptotic; Sets, relations and functions: Operations on sets, relations and functions, binary relations, partial ordering relations, equivalence relations, principles of mathematical induction, Finite and infinite sets, countable and uncountable sets, Cantor’s diagonal argument and the power set theorem; Introduction to counting: Basic counting techniques - inclusion and exclusion, pigeon-hole principle, permutation, combination, generating function; Algebraic structures and morphisms: semigroups, groups, subgroups, homomorphisms, rings, integral domains, fields; Introduction to graphs: paths, connectivity, subgraphs, isomorphic and homeomorphic graphs, trees, complete graphs, bipartite graphs, matchings, colourability, planarity, digraphs;
+                                                </p>
+                                            <h5>Texts</h5> 
+                                            <ul>
+                                                <li>J. P. Tremblay and R. P. Manohar, Discrete Mathematics with Applications to Computer Science, Tata McGraw-Hill, 1999.</li>
+                                                <li>C. L. Liu, Elements of Discrete Mathematics, 2nd Ed, Tata McGraw-Hill, 2000.</li>
+                                                <li>R. L. Graham, D. E. Knuth, and O. Patashnik, Concrete Mathematics, 2nd Ed, Addison-Wesley, 1994.</li>
+                                                <li>N. Deo, Graph Theory with Applications to Engineering and Computer Science, Prentice Hall of India, 1974.</li>
+                                                <li>S. Lipschutz and M. L. Lipson, Schaums Outline of Theory and Problems of Discrete Mathematics, 2ndEd, Tata McGraw-Hill, 1999.</li>
+                                            </ul>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    </div>
+    
+
+
 
                     </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
                     <div class="tab-pane fade" id="curriculum" role="tabpanel" aria-labelledby="curriculum-tab">
 
 
