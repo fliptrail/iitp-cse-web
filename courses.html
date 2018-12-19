@@ -35,7 +35,7 @@
         <li class="nav-item">
             <a class="nav-link" href="index.html">Intro<span class="sr-only">(current)</span></a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item active">
             <a class="nav-link" href="courses.html">Courses</a>
         </li>
         <li class="nav-item dropdown">
@@ -56,7 +56,7 @@
         <li class="nav-item">
                 <a class="nav-link" href="facilities.html">Facilities</a>
         </li>
-        <li class="nav-item active">
+        <li class="nav-item">
                 <a class="nav-link" href="awards.html">Awards</a>
         </li>
         <li class="nav-item">
@@ -94,24 +94,58 @@
 
 
 
+    <div class = "container bg-light">
+        <div class="row">
+            <div class="col-12 col-lg-12">
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item">
+                      <a class="nav-link active" id="course-tab" data-toggle="tab" href="#course" role="tab" aria-controls="course" aria-selected="true">Courses</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" id="curriculum-tab" data-toggle="tab" href="#curriculum" role="tab" aria-controls="curriculum" aria-selected="false">Curriculum</a>
+                    </li>
+                  </ul>
+                  <div class="tab-content" id="myTabContent">
+
+
+
+                    <!-- Course Tab content -->
+
+                    <div class="tab-pane fade show active" id="course" role="tabpanel" aria-labelledby="course-tab">
+
+                        <table class="table table-hover">
+                            <thead>
+                              <tr>
+                                <th scope="col">Code</th>
+                                <th scope="col">Course Name</th>
+                                <th scope="col">Type</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                <th scope="row">1</th>
+                                <td>Mark</td>
+                                <td>Otto</td>
+                              </tr>
+                              <tr>
+                                <th scope="row">2</th>
+                                <td>Jacob</td>
+                                <td>Thornton</td>
+                              </tr>
+                              <tr>
+                                <th scope="row">3</th>
+                                <td>Larry the Bird</td>
+                                <td>@twitter</td>
+                              </tr>
+                            </tbody>
+                          </table>
 
 
 
 
 
-    <ul class="nav nav-tabs" id="myTab" role="tablist">
-        <li class="nav-item">
-          <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Profile</a>
-        </li>
-      </ul>
-      <div class="tab-content" id="myTabContent">
-        <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">...</div>
-        <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">...</div>
-        <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">...</div>
-      </div>
+                    </div>
+                    <div class="tab-pane fade" id="curriculum" role="tabpanel" aria-labelledby="curriculum-tab">
 
 
 
@@ -120,8 +154,13 @@
 
 
 
-
-
+                    </div>
+            
+                  </div>
+            
+            </div>
+        </div>
+    </div>
 
 
 
