@@ -1,0 +1,46 @@
+{
+    "staff":[
+        {
+          "name": "<img src=\"img/ashutosh.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Mr. Ashutosh K Sinha",
+          "designation": "Scientific Officer",
+          "email": "aksinha",
+          "phone": 8097,
+          "profile": "<a href=\"https://www.iitp.ac.in/index.php/departments/engineering/computer-science-a-engineering/people/staff/686-ashutosh-sinha.html\">View Profile</a>"
+        },
+        {
+          "name": "<img src=\"img/ab.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Mr. Abhishek Dixit",
+          "designation": "Jr. Tech. Supt.",
+          "email": "adixit",
+          "phone": 8162,
+          "profile": "<a href=\"https://adee38.wixsite.com/iitp\">View Profile</a>"
+        },
+        {
+          "name": "<img src=\"img/skverma.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Mr. Shailendra Kumar Verma",
+          "designation": "Jr. Tech Supt.",
+          "email": "skverma",
+          "phone": 8333,
+          "profile": "View Profile"
+        },
+        {
+          "name": "<img src=\"img/asim_maiti.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Mr. Asim Kumar Maiti",
+          "designation": "Jr. Tech Supt.",
+          "email": "asim",
+          "phone": 8344,
+          "profile": "View Profile"
+        },
+        {
+          "name": "<img src=\"img/Praveen_Patel.png\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Mr. Praveen Kumar Patel",
+          "designation": "Jr. Tech Supt.",
+          "email": "praveenk",
+          "phone": 8330,
+          "profile": "View Profile"
+        },
+        {
+          "name": "<img src=\"img/anupama.jpg\" style=\"width:120px\" class=\"img-fluid img-thumbnail\"><br>Ms. Anupama Bharti",
+          "designation": "Jr. Technician",
+          "email": "anupama",
+          "phone": 8134,
+          "profile": "View Profile"
+        }
+      ]
+}

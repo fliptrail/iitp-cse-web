@@ -92,7 +92,7 @@
                 <div class="col-lg-10">
                     <br>
                     <h2>
-                        Faculty
+                        Staff
                     </h2>
                     <h6>
                         Scroll right on table when viewing with small screen devices.
@@ -193,8 +193,8 @@
 
     $(function() {
         
-        $.getJSON('json/faculty.json', function(data) {
-           $.each(data.faculty, function(i, f) {
+        $.getJSON('json/staff.json', function(data) {
+           $.each(data.staff, function(i, f) {
               var tblRow = "<tr>" + "<td>" + f.name + "</td>" +
                 "<td>" + f.designation + "</td>" +
                 "<td>" + f.phone + "</td>" +
